@@ -1,4 +1,4 @@
-### Pietro Colaguori
+### Pietro Colaguori (22 y.o.), based in Rome
 
 ### Education
 - B.E. in Computer Engineering at Sapienza University of Rome  (September 2020 - September 2023)
