@@ -8,7 +8,7 @@
 
 ### Work Experience
 - *Senior IT Consultant at JESAP Consulting* (April 2023 - Present, Part Time)
-  - I took part in the creation of a web application for a small business and I fixed the various requests of the clients after it was sold.
+  - I took part in the creation of a web application for a small business and I fixed the various requests of the clients after it was sold. \
   You can find a report on this project at [JESAP Consulting x Polimero](https://website.juniorenterprises.it/2023/08/24/jesap-consulting-x-polimero-srl/).
   - I created and maintained an application form for those who want to join the association, using [Streamlit](https://streamlit.io/) (a Python framework) and the APIs for Google Sheets and Google Drive. You can find the working form [here](https://recruitment-spring24-jesap.streamlit.app/).
   - I connected via LinkedIn with many IT and AI professionals, in order to organise trainings for my area and for the whole association.
