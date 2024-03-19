@@ -34,6 +34,7 @@ under construction ...
 ---
 
 ### HackTheBox Writeups
+<img src="/assets/images/htb_logo.png" width=10% height=10%>
 I enjoy solving penetration testing challanges on [HackTheBox](https://app.hackthebox.com/home), I write detailed writeups in which I explain my thoughts and the different steps I took in order to solve the box.
 You can find all my writeups [here](https://github.com/PietroColaguori/HTB_Writeups).
   
